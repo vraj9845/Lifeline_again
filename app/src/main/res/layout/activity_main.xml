@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.app.codered.lifeline_again.MainActivity">
     <EditText
         android:id="@+id/name"
@@ -13,7 +14,7 @@
 
         android:layout_marginTop="34dp"
         android:ems="10"
-        android:hint="enter_name"
+        android:hint="Enter_Phone"
         android:inputType="textPersonName" />
 
     <Spinner
