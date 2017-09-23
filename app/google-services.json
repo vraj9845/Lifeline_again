@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "208106088816",
+    "firebase_url": "https://comappcoderedlifelineagain.firebaseio.com",
+    "project_id": "comappcoderedlifelineagain",
+    "storage_bucket": "comappcoderedlifelineagain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208106088816:android:7733e7957372c145",
+        "android_client_info": {
+          "package_name": "com.app.codered.lifeline_again"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208106088816-g75oi8vg6ceavgh04lh4isds74pbh5k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.codered.lifeline_again",
+            "certificate_hash": "de91fff707fdc217d19f13666cd9e04619342c82"
+          }
+        },
+        {
+          "client_id": "208106088816-4a0j0am5et80i8kv7o2vtehfgn362n0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvBiGJ8lNeQRsvjxqw00PzhKQ3PZXjEvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208106088816-4a0j0am5et80i8kv7o2vtehfgn362n0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
